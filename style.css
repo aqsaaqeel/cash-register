@@ -3,7 +3,6 @@
 }
 .body {
     background-color: #964B00;
-;
     color: white;
     text-align: justify;
     max-width: 900px;
@@ -22,7 +21,7 @@
 }
 .nav-details{
     text-align: center;
-    background-color: #964B00;
+
 ;
     color : white;
 }  
