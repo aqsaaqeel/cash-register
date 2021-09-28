@@ -2,8 +2,13 @@
 
 }
 .body {
-    background-color: brown;
+    background-color: #964B00;
+;
     color: white;
+    text-align: justify;
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
 }
 .container {
     display: flex;
@@ -17,7 +22,8 @@
 }
 .nav-details{
     text-align: center;
-    background-color: brown;
+    background-color: #964B00;
+;
     color : white;
 }  
   td, th {
